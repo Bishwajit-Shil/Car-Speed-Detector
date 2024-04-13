@@ -1,7 +1,6 @@
-<video width="640" height="360" controls>
-  <source src="" type="video/mp4>
-  Your browser does not support the video tag.
-</video>
+[![Watch the video](demo.png)](https://github.com/Bishwajit-Shil/Car-Speed-Detector/blob/main/outTraffic.avi)
+
+
 
 # Traffic Speed Estimation
 
